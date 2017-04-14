@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/harris.h
+opencv2/opencv.hpp
+../include/opencv2/opencv.hpp
+
+/home/carpon/mywork/harris/src/main.cpp
+stdio.h
+-
+harris.h
+/home/carpon/mywork/harris/src/harris.h
+
