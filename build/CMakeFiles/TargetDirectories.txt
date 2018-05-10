@@ -1,7 +1,0 @@
-/home/carpon/mywork/harris/build/CMakeFiles/fast.dir
-/home/carpon/mywork/harris/build/CMakeFiles/houghlines.dir
-/home/carpon/mywork/harris/build/CMakeFiles/main.dir
-/home/carpon/mywork/harris/build/CMakeFiles/marker.dir
-/home/carpon/mywork/harris/build/CMakeFiles/minAreaRect.dir
-/home/carpon/mywork/harris/build/CMakeFiles/new_harris.dir
-/home/carpon/mywork/harris/build/CMakeFiles/test.dir
